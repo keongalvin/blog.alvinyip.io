@@ -1,21 +1,25 @@
-# A match made in heaven
+I am Alvin Yip. 
 
-There is a website obesity crisis. Bloated websites full of scripts, ads, and trackers are slowing your readers down every time they try to read your well-crafted content.
+Passionate and driven technologist with strong background cloud engineering and enablement. 
 
-Hugo Bear Blog is all you need to build a fantastic and optimized site or blog. It works perfectly on **any** viewing device. All you need to focus on is writing good content.
 
-[Go to the original bear blog](https://bearblog.dev/).
+## Interests
 
----
+- Technical Leadership.
+- Domain Driven Design.
+- Platform Engineering for Cloud/Data/ML.
+- System Design and Architecture, with focus on Cloud Native Solutions.
+- Software Engineering Practices - Continuous Delivery.
+- Cloud ecosystem (AWS, GCP, Kubernetes).
 
-What happens when you combine the worlds' fastest, most lightweight static site generator with a design theme built to provide you with free, no-nonsense, super-fast blogging capabilities?
+## Stack
 
-**Use this theme, and find out!**
+Python is my go-to for fast prototyping, microservices and automation. I have experimented lightly with Go, Java, Rust.
 
-Made with 💟 by [Jan Raasch](https://www.janraasch.com).
+For deployments I am comfortable with Jenkins, Docker, Kubernetes.
 
----
+## Contact
 
-Simply publish content online, grow an audience, and keep your pages tiny, fast, and **optimized for search engines**.
+Linkedin: <https://www.linkedin.com/in/nivla1/>
 
-Each page is ~5kb, and you can **host your blog yourself**.
+Email: keongalvin at gmail $dot com.
