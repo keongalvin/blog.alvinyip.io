@@ -1,6 +1,6 @@
 I am Alvin Yip. 
 
-Passionate and driven technologist with strong background cloud engineering and enablement. 
+Passionate, driven technologist with strong background in cloud engineering and enablement. 
 
 
 ## Interests
@@ -9,14 +9,14 @@ Passionate and driven technologist with strong background cloud engineering and 
 - Domain Driven Design.
 - Platform Engineering for Cloud/Data/ML.
 - System Design and Architecture, with focus on Cloud Native Solutions.
-- Software Engineering Practices - Continuous Delivery.
+- Software Engineering - Continuous Delivery.
 - Cloud ecosystem (AWS, GCP, Kubernetes).
 
 ## Stack
 
 Python is my go-to for fast prototyping, microservices and automation. I have experimented lightly with Go, Java, Rust.
 
-For deployments I am comfortable with Jenkins, Docker, Kubernetes.
+For deployments, I am comfortable with Jenkins, Docker, Kubernetes.
 
 ## Contact
 
